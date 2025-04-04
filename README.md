@@ -6,3 +6,10 @@
 ![Jacinto GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacinto-robate&show_icons=true&theme=transparent)
 
 
+
+
+> "A tecnologia é apenas uma ferramenta. O que importa é como a utilizamos para melhorar a vida das pessoas." 💡
+
+
+
+
