@@ -1,8 +1,9 @@
 # 👋 Hey, I'm Jacinto – aka **Jota.dev** 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+ cybersec+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Dev+%7C+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </div>
+
 
 ---
 
