@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎥 I teach web dev to **millions** on **[Instagram](https://instagram.com/jota.dev258)**
+- 🎥 I share my **daily life and web dev journey** on **[Instagram](https://instagram.com/jota.dev258)**
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **NestJS**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
