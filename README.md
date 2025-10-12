@@ -1,7 +1,31 @@
-### Olá! Eu sou o Jacinto Robate 👋
+# 👋 Hey, I'm Jacinto – aka **Jota.dev** 👨‍💻
 
-> "A tecnologia é apenas uma ferramenta. O que importa é como a utilizamos para melhorar a vida das pessoas." 💡
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+ cybersec+Enthusiast;" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎥 I teach web dev to **millions** on **[Instagram](https://instagram.com/jota.dev258)**
+- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **NestJS**
+- 🧠 Constantly learning & sharing what I learn
+- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
+
+---
+
+## 🧠 My Favorite Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 
 
+## 🤝 Connect with Me
 
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jota.dev258)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacinto-robate)
